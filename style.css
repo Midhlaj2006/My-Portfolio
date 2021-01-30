@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 h1 {
     color: blue;
@@ -6,8 +7,16 @@ h1 {
     padding-left:20px;
 }
 
+a {
+    color: firebrick;
+    padding-left:20px;
+}
+
 .header{
+    font-family: 'Lobster', cursive;
     display: flex;
     justify-content: space-between;
-    background-color: rgb(61, 138, 65);
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
 }
