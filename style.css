@@ -32,7 +32,7 @@ h3 {
 }
 
 .footers{
-    position: relative;
+    position: fixed;
     bottom: 0;
     padding-top: 20px;
     font-family: Arial, Helvetica, sans-serif;
