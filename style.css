@@ -30,6 +30,11 @@ h5 {
 
 }
 
+.links{
+    font-family: 'Hanalei', cursive;;
+    font-size: 20px;
+}
+
 .grid{ 
     display: flex;
     flex-wrap: wrap;
@@ -48,7 +53,7 @@ h5 {
 
 h2,p{
     text-align: center;
-    font-family: 'Hanalei', cursive;
+    font-family: 'Syncopate', sans-serif;
     font-size: 15px;
 }
 
